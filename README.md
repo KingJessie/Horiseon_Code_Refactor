@@ -18,7 +18,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 # Deployment
 
-Link: https://kingjessie.github.io/Horiseon_Refactor_code
+Link: https://kingjessie.github.io/Horiseon_Code_Refactor/
 
 
 # Installation
